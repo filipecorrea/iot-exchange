@@ -1,0 +1,11 @@
+{
+  "name": "iot-exchange",
+  "version": "1.0.0",
+  "description": "IoT Exchange application",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
