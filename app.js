@@ -5,7 +5,7 @@ const package = require('./package.json')
 app.get('/', (req, res) => {
     res.send(
       package.description + ' ' + 
-      package.version + ' is up and running in an OpenShift cluster.'
+      package.version + ' is up and running in a cluster.'
     )
 })
 
