@@ -1,6 +1,6 @@
 # IoT Exchange
 
-IoT Exchange demo application.
+Demo application used on IBM IoT Exchange 2020 to explain how to setup GitHub and IBM Cloud for agile development and continuous delivery in Kubernetes and OpenShift environments.
 
 ## Prerequisites
 
